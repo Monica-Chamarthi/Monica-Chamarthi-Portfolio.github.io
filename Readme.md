@@ -12,3 +12,10 @@ Built with: Python, Pandas, Scikit-Learn, Matplotlib, Seaborn.
 * The aim of this project is to Build a machine learning model to predict whether a customer would be interested in taking the insurance policy or not.
 * Techniques used: Data Preprocessing,Logistic Regression,Support Vector Machines,KNN Classifier,Decision Tree Classifier, Random forest classifier,HyperParameter   Tuning techniques-Gradient Search
 * Built with: Python, Pandas, Scikit-Learn, Matplotlib, Seaborn
+
+# [Project 3 :Web Scraping and EDA:](https://github.com/Monica-Chamarthi/InsuranceClassification)
+
+## Project Overview:
+* The aim of this project is to scrape the data from ZigWheels Second Hand Cars website using BeautifulSoap and performing exploratory data analysis on the extracted data.
+* Techniques used: Data Analysis, Data Extraction, Data Cleaning, Data Visualization, Beautiful Soap and Regular expressions
+* Built with: Python, Pandas, Numpy, Matplotlib

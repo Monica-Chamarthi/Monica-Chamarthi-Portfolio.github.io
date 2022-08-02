@@ -13,7 +13,7 @@ Built with: Python, Pandas, Scikit-Learn, Matplotlib, Seaborn.
 * Techniques used: Data Preprocessing,Logistic Regression,Support Vector Machines,KNN Classifier,Decision Tree Classifier, Random forest classifier,HyperParameter   Tuning techniques-Gradient Search
 * Built with: Python, Pandas, Scikit-Learn, Matplotlib, Seaborn
 
-# [Project 3 :Web Scraping and EDA:](https://github.com/Monica-Chamarthi/InsuranceClassification)
+# [Project 3 :Web Scraping and EDA:](https://github.com/Monica-Chamarthi/CarTrdeWebScraping)
 
 ## Project Overview:
 * The aim of this project is to scrape the data from ZigWheels Second Hand Cars website using BeautifulSoap and performing exploratory data analysis on the extracted data.

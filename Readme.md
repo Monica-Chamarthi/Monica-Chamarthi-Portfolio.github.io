@@ -4,7 +4,7 @@
 * The aim of this project is to predict the compressive strength of concrete using different Machine learning Algorithms and analyzing their performances.
 
 * Techniques used: Data Preprocessing ,Linear Regression, Lasso and Ridge Regression, Support Vector Machines, KNN Regressor, Decision Tree Regression and Random   gForest Regression.
-Built with: Python, Pandas, Scikit-Learn, Matplotlib, Seaborn.
+* Built with: Python, Pandas, Scikit-Learn, Matplotlib, Seaborn.
 
 # [Project 2 :Insurance Prediction with Machine Learning:](https://github.com/Monica-Chamarthi/InsuranceClassification)
 
